@@ -18,7 +18,7 @@ class Sequence:
         increment (int): The number of frames to skip between each frame. Default is 1.
     """
 
-    project_name = "visual-odometry-project"
+    project_name = "slam"
 
     def __init__(
         self,
